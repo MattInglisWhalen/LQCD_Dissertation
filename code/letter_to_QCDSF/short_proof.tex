@@ -1,0 +1,100 @@
+\documentclass[10pt]{article}
+
+\usepackage{float}
+\usepackage{fullpage}
+\usepackage{parskip}
+
+\usepackage{mathtools}
+\usepackage{amssymb}
+\usepackage{slashed}
+
+\usepackage{fancyhdr}
+\usepackage{array}
+\usepackage[margin=0.9in]{geometry}
+\usepackage{graphicx}
+
+\setlength{\pdfpagewidth}{8.5in}
+\setlength{\pdfpageheight}{11.0in}
+
+\newcommand{\rs}{\sqrt{s}}
+
+\newcommand{\psibar}{\overline{\psi}}
+\newcommand{\ubar}{\overline{u}}
+\newcommand{\vbar}{\overline{v}}
+
+\newcommand{\order}[1]{\mathcal{O}({#1})}
+\newcommand{\paren}[1]{ \left( {#1} \right) }
+\newcommand{\bracket}[1]{ \left[ {#1} \right] }
+
+\newcommand{\intdfx}{ \int \! d^4 x }
+\newcommand{\intdfy}{ \int \! d^4 y }
+\newcommand{\intdfz}{ \int \! d^4 z }
+
+\newcommand{\intdfk}{ \int \! \frac{ d^4 k}{(2\pi)^d} }
+\newcommand{\intdfl}{ \int \! \frac{ d^4 l}{(2\pi)^d} }
+\newcommand{\intdfq}{ \int \! \frac{ d^4 q}{(2\pi)^d} }
+
+\newcommand{\intddx}{ \int \! d^d x }
+\newcommand{\intddy}{ \int \! d^d y }
+\newcommand{\intddz}{ \int \! d^d z }
+
+\newcommand{\intddk}{ \int \!  \frac{ d^d k}{(2\pi)^d} }
+\newcommand{\intddkE}{ \int \! \frac{ d^d k_E}{(2\pi)^d} }
+\newcommand{\intddl}{ \int \!  \frac{ d^d l}{(2\pi)^d} }
+\newcommand{\intddlE}{ \int \! \frac{ d^d l_E}{(2\pi)^d} }
+\newcommand{\intddq}{ \int \!  \frac{ d^d q}{(2\pi)^d} }
+\newcommand{\intddqE}{ \int \! \frac{ d^d q_E}{(2\pi)^d} }
+
+\newcommand{\DeltaNaught}{\sqrt{\beta_1^2-4\beta_0\beta_2} }
+\newcommand{\DeltaNaughtSqr}{\beta_1^2-4\beta_0\beta_2 }
+
+\begin{document}
+\pagestyle{fancy}
+%\pagenumbering{gobble}
+
+\begin{center}
+\Large{A Short Proof} \\
+\vspace{0.7cm}
+\large{Matthew Inglis-Whalen, University of Edinburgh, United Kingdom}
+\end{center}
+
+To one loop order, the QCD beta function can be integrated to give
+
+\begin{equation} \label{eq:rLambda} \begin{aligned}
+r\Lambda_{(n_f)}^{q\bar{q}} = \exp \paren{ -\frac{1}{2b_0^{(n_f)}g_{q\bar{q}}^2 } }
+\end{aligned} \end{equation}
+
+Converting to the $\overline{MS}$ scheme using equation (16) of the paper gives
+
+\begin{equation} \label{eq:rLambdaMS} \begin{aligned}
+r\Lambda_{(n_f)}^{\overline{MS}} = \exp \paren{\frac{ t_{1(n_f)}^{q\bar{q}}}{2b_0^{(n_f)}} } \exp \paren{ -\frac{1}{2b_0^{(n_f)}g_{q\bar{q}}^2 } }
+\end{aligned} \end{equation}
+
+Getting rid of the scale $r$ by taking ratios, we find then that
+
+\begin{equation} \label{eq:LambdaMSrat} \begin{aligned}
+\frac{\Lambda_{(2)}^{\overline{MS}}}{\Lambda_{(0)}^{\overline{MS}}} = \frac {\exp \paren{\frac{ t_{1(2)}^{q\bar{q}}}{2b_0^{(2)}} } \exp \paren{ -\frac{1}{2b_0^{(2)}g_{q\bar{q}}^2 } } } 
+                                                                            {\exp \paren{\frac{ t_{1(0)}^{q\bar{q}}}{2b_0^{(0)}} } \exp \paren{ -\frac{1}{2b_0^{(0)}g_{q\bar{q}}^2 } } }
+\end{aligned} \end{equation}
+
+As $g_{q\bar{q}} \rightarrow \infty$, the second exponentials in both the numerator and denominator quickly vanish, leaving the simple relation
+
+\begin{equation} \label{eq:LambdaMSratsimp} \begin{aligned}
+\frac{\Lambda_{(2)}^{\overline{MS}}}{\Lambda_{(0)}^{\overline{MS}}} = \exp \paren{\frac{ t_{1(2)}^{q\bar{q}}}{2b_0^{(2)}} - \frac{ t_{1(0)}^{q\bar{q}}}{2b_0^{(0)}} } 
+\end{aligned} \end{equation}
+
+Equation (50) of the paper gives the value
+
+\begin{equation} \label{eq:t1val} \begin{aligned}
+t_{1(n_f)}^{q\bar{q}} = \frac{1}{(4\pi)^2}\bracket{\frac{4}{3}n_f\paren{\gamma_E - \frac{1}{6}}-22\paren{\gamma_E-\frac{35}{66}}}
+\end{aligned} \end{equation}
+
+so plugging this into equation \ref{eq:LambdaMSratsimp} and using the usual beta function coefficients $b_i$, we find that the asymptotic value for $\Lambda_{(2)}^{\overline{MS}}/ \Lambda_{(0)}^{\overline{MS}} $ is
+
+\begin{equation} \label{eq:result} \begin{aligned}
+\frac{\Lambda_{(2)}^{\overline{MS}}}{\Lambda_{(0)}^{\overline{MS}}} = 1.0544
+\end{aligned} \end{equation}
+
+While I don't have an easy proof for why this should hold to higher loops, this at least shows that something fishy is going on with Figure 7 of the paper.
+
+\end{document}

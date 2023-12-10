@@ -1,0 +1,25 @@
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {2.1}{\ignorespaces $\alpha _{\text {\relax \fontsize {6}{7}\selectfont ${\overline {MS}}$ }} $\ \ vs. $\mu / \Lambda _{(n_f)}^{\text {\relax \fontsize {6}{7}\selectfont ${\overline {MS}}$ }} $ for $n_f=0$ (left) and $n_f=2$ (right), using increasingly higher orders in the perturbative expansion of the beta function. }}{8}
+\contentsline {figure}{\numberline {2.2}{\ignorespaces Stability analysis for the choice of scale in Method I for $n_f=0$ with the boosted coupling scheme.}}{15}
+\contentsline {figure}{\numberline {2.3}{\ignorespaces Stability analysis for the choice of scale in Method II for $n_f=0$. }}{16}
+\contentsline {figure}{\numberline {2.4}{\ignorespaces $\Lambda _{(3)}^{\text {\relax \fontsize {6}{7}\selectfont ${\overline {MS}}$ }} / \Lambda _{(2)}^{\text {\relax \fontsize {6}{7}\selectfont ${\overline {MS}}$ }} $ versus $\Lambda _{(2)}^{\text {\relax \fontsize {6}{7}\selectfont ${\overline {MS}}$ }} / \Lambda _{(0)}^{\text {\relax \fontsize {6}{7}\selectfont ${\overline {MS}}$ }} $. }}{19}
+\contentsline {figure}{\numberline {2.5}{\ignorespaces Fitted and extrapolated $\Lambda _{(3)}^{\text {\relax \fontsize {6}{7}\selectfont ${\overline {MS}}$ }} / \Lambda _{(2)}^{\text {\relax \fontsize {6}{7}\selectfont ${\overline {MS}}$ }} $ versus $\Lambda _{(2)}^{\text {\relax \fontsize {6}{7}\selectfont ${\overline {MS}}$ }} / \Lambda _{(0)}^{\text {\relax \fontsize {6}{7}\selectfont ${\overline {MS}}$ }} $ curves using a quartic series expansion about $\Lambda _{(2)}^{\text {\relax \fontsize {6}{7}\selectfont ${\overline {MS}}$ }} / \Lambda _{(0)}^{\text {\relax \fontsize {6}{7}\selectfont ${\overline {MS}}$ }} =1.1$. The X markers denote the points which are used to fit the curves.}}{20}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Extrapolation of $r_0\Lambda _{(0)}^{\text {\relax \fontsize {6}{7}\selectfont ${\overline {MS}}$ }} $ to the continuum limit in the quenched approximation for Method I using the bare lattice scheme (left) and the boosted coupling scheme (right).}}{22}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Method I$_{\text {\relax \fontsize {6}{7}\selectfont $0$}}$ }}}{22}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Method I$_{\text {\relax \fontsize {6}{7}\selectfont $\Box $}}$ }}}{22}
+\contentsline {figure}{\numberline {3.2}{\ignorespaces Extrapolation of $r_0\Lambda _{(0)}^{\text {\relax \fontsize {6}{7}\selectfont ${\overline {MS}}$ }} $ to the continuum limit with $n_f=0$ for Method II and Method IIP using the boosted coupling scheme.}}{23}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Method II }}}{23}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Method IIP }}}{23}
+\contentsline {figure}{\numberline {3.3}{\ignorespaces Extrapolation of $r_0/a$ to the chiral limit using the global fit hypothesis. Extrapolated points are shifted left for aesthetic purposes.}}{25}
+\contentsline {figure}{\numberline {3.4}{\ignorespaces Extrapolation of the average plaquette $P$ to the chiral limit. From the bottom, the fitted lines correspond to $\beta =$ 5.20, 5.25, 5.29, and 5.40. Extrapolated points are shifted left for aesthetic purposes.}}{25}
+\contentsline {figure}{\numberline {3.5}{\ignorespaces Extrapolation of $r_0\Lambda _{(2)}^{\text {\relax \fontsize {6}{7}\selectfont ${\overline {MS}}$ }} $ to the continuum limit with $n_f=2$ for the three methods (left) as well as the two Pad\'{e} improved methods (right).}}{26}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {}}}{26}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {}}}{26}
+\contentsline {figure}{\numberline {3.6}{\ignorespaces This work's values of $\alpha _{\text {\relax \fontsize {6}{7}\selectfont ${\overline {MS}}$ }} ^{(n_f=5)}(m_Z)$ (left) and $r_0\Lambda _{(n_f)}^{\text {\relax \fontsize {6}{7}\selectfont ${\overline {MS}}$ }} $ (right) compared to other lattice determinations in the literature. The vertical dashed lines represent the 1-$\sigma $ confidence interval for the PDG's (left) and the FLAG Working Group's (right) current world average. Bazavov {\it et al.} 2014 is taken from \cite {Bazavov:2014}, Karbstein 2014 is taken from \cite {Karbstein:2014}, and the remaining values are taken from the FLAG review \cite {Aoki:2013}. }}{28}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {}}}{28}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {}}}{28}
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }

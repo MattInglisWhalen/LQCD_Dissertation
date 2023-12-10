@@ -1,0 +1,442 @@
+This is pdfTeXk, Version 3.141592-1.40.3 (Web2C 7.5.6) (format=pdflatex 2013.11.20)  21 AUG 2014 15:08
+entering extended mode
+ %&-line parsing enabled.
+**manuscript_s1328668.tex
+(./manuscript_s1328668.tex
+LaTeX2e <2005/12/01>
+Babel <v3.8h> and hyphenation patterns for english, usenglishmax, dumylang, noh
+yphenation, arabic, basque, bulgarian, coptic, welsh, czech, slovak, german, ng
+erman, danish, esperanto, spanish, catalan, galician, estonian, farsi, finnish,
+ french, greek, monogreek, ancientgreek, croatian, hungarian, interlingua, ibyc
+us, indonesian, icelandic, italian, latin, mongolian, dutch, norsk, polish, por
+tuguese, pinyin, romanian, russian, slovenian, uppersorbian, serbian, swedish, 
+turkish, ukenglish, ukrainian, loaded.
+(/usr/share/texmf/tex/latex/base/report.cls
+Document Class: report 2005/09/16 v1.4f Standard LaTeX document class
+(/usr/share/texmf/tex/latex/base/size12.clo
+File: size12.clo 2005/09/16 v1.4f Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@chapter=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/share/texmf/tex/latex/graphics/graphics.sty
+Package: graphics 2006/02/20 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texmf/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/usr/share/texmf/tex/latex/config/graphics.cfg
+File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
+)
+Package graphics Info: Driver file: pdftex.def on input line 90.
+
+(/usr/share/texmf/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2007/01/08 v0.04d Graphics/color for pdfTeX
+\Gread@gobject=\count88
+))
+(/usr/share/texmf/tex/latex/ifp/head.sty
+Head style Version 1.0
+\@HeadRuleHeight=\skip43
+\@FootRuleHeight=\skip44
+\@RuleSeparation=\skip45
+\@HeadRuleSeparation=\skip46
+\@FootRuleSeparation=\skip47
+) (/usr/share/texmf/tex/latex/ifp/fullpage.sty
+Fullpage style Version 1.0
+) (/usr/share/texmf/tex/generic/epsf/epsf.sty
+This is `epsf.tex' v2.7.3 <23 July 2005>
+\epsffilein=\read1
+\epsfframemargin=\dimen103
+\epsfframethickness=\dimen104
+\epsfrsize=\dimen105
+\epsftmp=\dimen106
+\epsftsize=\dimen107
+\epsfxsize=\dimen108
+\epsfysize=\dimen109
+\pspoints=\dimen110
+) (/usr/share/texmf/tex/latex/graphics/graphicx.sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texmf/tex/latex/graphics/keyval.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+\Gin@req@height=\dimen111
+\Gin@req@width=\dimen112
+)
+(/usr/share/texmf/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01
+
+(/usr/share/texmf/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks15
+\ex@=\dimen113
+))
+(/usr/share/texmf/tex/latex/ltxmisc/url.sty
+\Urlmuskip=\muskip10
+Package: url 2005/06/27  ver 3.2  Verb mode for urls, etc.
+)
+(/usr/share/texmf/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2002/01/22 v2.2d
+
+(/usr/share/texmf/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2001/10/25 v2.2f
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 132.
+))
+(/usr/share/texmf/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2000/07/18 v2.13 AMS math features
+\@mathmargin=\skip48
+
+For additional information on amsmath, use the `?' option.
+(/usr/share/texmf/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d
+\pmbraise@=\dimen114
+)
+(/usr/share/texmf/tex/latex/amsmath/amsopn.sty
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count89
+LaTeX Info: Redefining \frac on input line 211.
+\uproot@=\count90
+\leftroot@=\count91
+LaTeX Info: Redefining \overline on input line 307.
+\classnum@=\count92
+\DOTSCASE@=\count93
+LaTeX Info: Redefining \ldots on input line 379.
+LaTeX Info: Redefining \dots on input line 382.
+LaTeX Info: Redefining \cdots on input line 467.
+\Mathstrutbox@=\box26
+\strutbox@=\box27
+\big@size=\dimen115
+LaTeX Font Info:    Redeclaring font encoding OML on input line 567.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 568.
+\macc@depth=\count94
+\c@MaxMatrixCols=\count95
+\dotsspace@=\muskip11
+\c@parentequation=\count96
+\dspbrk@lvl=\count97
+\tag@help=\toks16
+\row@=\count98
+\column@=\count99
+\maxfields@=\count100
+\andhelp@=\toks17
+\eqnshift@=\dimen116
+\alignsep@=\dimen117
+\tagshift@=\dimen118
+\tagwidth@=\dimen119
+\totwidth@=\dimen120
+\lineht@=\dimen121
+\@envbody=\toks18
+\multlinegap=\skip49
+\multlinetaggap=\skip50
+\mathdisplay@stack=\toks19
+LaTeX Info: Redefining \[ on input line 2666.
+LaTeX Info: Redefining \] on input line 2667.
+)
+(/usr/share/texmf/tex/latex/units/units.sty
+Package: units 1998/08/04 v0.9b Typesetting units
+
+(/usr/share/texmf/tex/latex/base/ifthen.sty
+Package: ifthen 2001/05/26 v1.1c Standard LaTeX ifthen package (DPC)
+)
+(/usr/share/texmf/tex/latex/units/nicefrac.sty
+Package: nicefrac 1998/08/04 v0.9b Nice fractions
+\L@UnitsRaiseDisplaystyle=\skip51
+\L@UnitsRaiseTextstyle=\skip52
+\L@UnitsRaiseScriptstyle=\skip53
+))
+(/usr/share/texmf/tex/latex/tools/afterpage.sty
+Package: afterpage 1995/10/27 v1.08 After-Page Package (DPC)
+\AP@output=\toks20
+\AP@partial=\box28
+\AP@footins=\box29
+)
+(/usr/share/texmf/tex/latex/subfig/subfig.sty
+Package: subfig 2005/06/28 ver: 1.3 subfig package
+
+(/usr/share/texmf/tex/latex/caption/caption.sty
+Package: caption 2007/01/07 v3.0k Customising captions (AR)
+
+(/usr/share/texmf/tex/latex/caption/caption3.sty
+Package: caption3 2007/01/07 v3.0k caption3 kernel (AR)
+\captionmargin=\dimen122
+\captionmarginx=\dimen123
+\captionwidth=\dimen124
+\captionindent=\dimen125
+\captionparindent=\dimen126
+\captionhangindent=\dimen127
+))
+\c@KVtest=\count101
+\sf@farskip=\skip54
+\sf@captopadj=\dimen128
+\sf@capskip=\skip55
+\sf@nearskip=\skip56
+\c@subfigure=\count102
+\c@subfigure@save=\count103
+\c@lofdepth=\count104
+\c@subtable=\count105
+\c@subtable@save=\count106
+\c@lotdepth=\count107
+\sf@top=\skip57
+\sf@bottom=\skip58
+) (./manuscript_s1328668.aux)
+\openout1 = `manuscript_s1328668.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+(/usr/share/texmf/tex/latex/ragged2e/ragged2e.sty
+Package: ragged2e 2003/03/25 v2.04 ragged2e Package (MS)
+
+(/usr/share/texmf/tex/latex/everysel/everysel.sty
+Package: everysel 1999/06/08 v1.03 EverySelectfont Package (MS)
+LaTeX Info: Redefining \selectfont on input line 125.
+)
+\CenteringLeftskip=\skip59
+\RaggedLeftLeftskip=\skip60
+\RaggedRightLeftskip=\skip61
+\CenteringRightskip=\skip62
+\RaggedLeftRightskip=\skip63
+\RaggedRightRightskip=\skip64
+\CenteringParfillskip=\skip65
+\RaggedLeftParfillskip=\skip66
+\RaggedRightParfillskip=\skip67
+\JustifyingParfillskip=\skip68
+\CenteringParindent=\skip69
+\RaggedLeftParindent=\skip70
+\RaggedRightParindent=\skip71
+\JustifyingParindent=\skip72
+)
+Package caption Info: subref 1.2 or 1.3 detected on input line 38.
+LaTeX Info: Redefining \subref on input line 38.
+
+<crest.pdf, id=1, 93.60963pt x 92.1871pt>
+File: crest.pdf Graphic file (type pdf)
+ <use crest.pdf> [1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./crest.pdf>]
+LaTeX Font Info:    Try loading font information for U+msa on input line 93.
+
+(/usr/share/texmf/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2002/01/19 v2.2g AMS font definitions
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 93.
+
+(/usr/share/texmf/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2002/01/19 v2.2g AMS font definitions
+) [1] (./manuscript_s1328668.toc
+[1
+
+])
+\tf@toc=\write3
+\openout3 = `manuscript_s1328668.toc'.
+
+ [2] (./manuscript_s1328668.lot
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 4.
+ (/usr/share/texmf/tex/latex/base/omscmr.fd
+File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 4.
+)
+\tf@lot=\write4
+\openout4 = `manuscript_s1328668.lot'.
+
+ [3
+
+] (./manuscript_s1328668.lof)
+\tf@lof=\write5
+\openout5 = `manuscript_s1328668.lof'.
+
+ [4
+
+] [1]
+Chapter 1.
+[1
+
+] [2] [3]
+Chapter 2.
+[4
+
+] [5] [6] [7] <alpha_of_mu_analytic.pdf, id=70, 569.12625pt x 327.2225pt>
+File: alpha_of_mu_analytic.pdf Graphic file (type pdf)
+
+<use alpha_of_mu_analytic.pdf> [8 <./alpha_of_mu_analytic.pdf, page is rotated 
+90 degrees>] [9]
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 525.
+ [10] [11] [12] [13]
+<method_I_stability.pdf, id=135, 569.12625pt x 549.05125pt>
+File: method_I_stability.pdf Graphic file (type pdf)
+
+<use method_I_stability.pdf>
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[14] <method_II_stability.pdf, id=139, 569.12625pt x 549.05125pt>
+File: method_II_stability.pdf Graphic file (type pdf)
+
+<use method_II_stability.pdf>
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[15 <./method_I_stability.pdf, page is rotated 90 degrees>] [16 <./method_II_st
+ability.pdf, page is rotated 90 degrees>] [17]
+<rat32_v_rat20_bad.pdf, id=237, 569.12625pt x 549.05125pt>
+File: rat32_v_rat20_bad.pdf Graphic file (type pdf)
+
+<use rat32_v_rat20_bad.pdf>
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[18] <rat32_v_rat20_good.pdf, id=242, 569.12625pt x 549.05125pt>
+File: rat32_v_rat20_good.pdf Graphic file (type pdf)
+
+<use rat32_v_rat20_good.pdf>
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[19 <./rat32_v_rat20_bad.pdf, page is rotated 90 degrees>] [20 <./rat32_v_rat20
+_good.pdf, page is rotated 90 degrees>]
+Chapter 3.
+[21
+
+] <methodI_lat_quenched.pdf, id=341, 569.12625pt x 549.05125pt>
+File: methodI_lat_quenched.pdf Graphic file (type pdf)
+
+<use methodI_lat_quenched.pdf>
+<methodIquenched.pdf, id=342, 569.12625pt x 549.05125pt>
+File: methodIquenched.pdf Graphic file (type pdf)
+
+<use methodIquenched.pdf>
+<methodIIquenched.pdf, id=343, 569.12625pt x 549.05125pt>
+File: methodIIquenched.pdf Graphic file (type pdf)
+
+<use methodIIquenched.pdf>
+<methodIIPquenched.pdf, id=344, 569.12625pt x 549.05125pt>
+File: methodIIPquenched.pdf Graphic file (type pdf)
+
+<use methodIIPquenched.pdf>
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[22 <./methodI_lat_quenched.pdf, page is rotated 90 degrees> <./methodIquenched
+.pdf, page is rotated 90 degrees>]
+<r0_Over_a_Chiral_Extrap.pdf, id=436, 569.12625pt x 549.05125pt>
+File: r0_Over_a_Chiral_Extrap.pdf Graphic file (type pdf)
+
+<use r0_Over_a_Chiral_Extrap.pdf>
+<Plaquette_Chiral_Extrap.pdf, id=437, 569.12625pt x 549.05125pt>
+File: Plaquette_Chiral_Extrap.pdf Graphic file (type pdf)
+
+<use Plaquette_Chiral_Extrap.pdf> [23 <./methodIIquenched.pdf, page is rotated 
+90 degrees> <./methodIIPquenched.pdf, page is rotated 90 degrees>] [24]
+[25 <./r0_Over_a_Chiral_Extrap.pdf, page is rotated 90 degrees> <./Plaquette_Ch
+iral_Extrap.pdf, page is rotated 90 degrees>]
+<method_I_II_III_nf=2.pdf, id=624, 569.12625pt x 549.05125pt>
+File: method_I_II_III_nf=2.pdf Graphic file (type pdf)
+
+<use method_I_II_III_nf=2.pdf>
+<method_IIP_IIIP_nf=2.pdf, id=625, 569.12625pt x 549.05125pt>
+File: method_IIP_IIIP_nf=2.pdf Graphic file (type pdf)
+
+<use method_IIP_IIIP_nf=2.pdf> [26 <./method_I_II_III_nf=2.pdf, page is rotated
+ 90 degrees> <./method_IIP_IIIP_nf=2.pdf, page is rotated 90 degrees>] [27]
+<compare_alphas.pdf, id=722, 569.12625pt x 549.05125pt>
+File: compare_alphas.pdf Graphic file (type pdf)
+
+<use compare_alphas.pdf>
+<compare_lambdas.pdf, id=723, 569.12625pt x 549.05125pt>
+File: compare_lambdas.pdf Graphic file (type pdf)
+
+<use compare_lambdas.pdf> [28 <./compare_alphas.pdf, page is rotated 90 degrees
+> <./compare_lambdas.pdf, page is rotated 90 degrees>]
+Chapter 4.
+[29
+
+] [30] [31]
+Chapter 5.
+
+Overfull \hbox (4.11357pt too wide) in paragraph at lines 1418--1422
+[]\OT1/cmr/m/n/12 The match-ing pro-ce-dure across the strange thresh-old in-vo
+lved as-sum-ing an $\OML/cmm/m/it/12 n[]$\OT1/cmr/m/n/12 -independent
+ []
+
+[32
+
+]
+Appendix A.
+[33
+
+]
+Underfull \hbox (badness 1509) in paragraph at lines 1568--1574
+[]\OT1/cmr/m/n/12 B. Leder \OT1/cmr/m/it/12 et al. \OT1/cmr/m/n/12 [AL-PHA Col-
+lab-o-ra-tion], PoS LAT-TICE \OT1/cmr/bx/n/12 2010 \OT1/cmr/m/n/12 (2010) 233
+ []
+
+Missing character: There is no ü in font cmr12!
+
+Underfull \hbox (badness 1776) in paragraph at lines 1610--1617
+[]\OT1/cmr/m/n/12 B. Blossier \OT1/cmr/m/it/12 et al. \OT1/cmr/m/n/12 [ETM Col-
+lab-o-ra-tion], Phys. Rev. D \OT1/cmr/bx/n/12 89 \OT1/cmr/m/n/12 (2014) 014507
+ []
+
+[34
+
+]
+Underfull \hbox (badness 3503) in paragraph at lines 1719--1725
+\OT1/cmr/m/n/12 A. Schafer and G. Schier-holz \OT1/cmr/m/it/12 et al.\OT1/cmr/m
+/n/12 , PoS LAT-TICE \OT1/cmr/bx/n/12 2010 \OT1/cmr/m/n/12 (2010) 228
+ []
+
+[35] (./manuscript_s1328668.aux) ) 
+Here is how much of TeX's memory you used:
+ 2741 strings out of 256216
+ 38223 string characters out of 1917071
+ 99930 words of memory out of 1500000
+ 5960 multiletter control sequences out of 10000+200000
+ 15924 words of font info for 61 fonts, out of 1200000 for 2000
+ 645 hyphenation exceptions out of 8191
+ 43i,18n,42p,793b,422s stack positions out of 5000i,500n,6000p,200000b,15000s
+</usr/share/texmf/fonts/type1/bluesky/cm/cmbx
+12.pfb></usr/share/texmf/fonts/type1/bluesky/cm/cmex10.pfb></usr/share/texmf/fo
+nts/type1/bluesky/cm/cmmi10.pfb></usr/share/texmf/fonts/type1/bluesky/cm/cmmi12
+.pfb></usr/share/texmf/fonts/type1/bluesky/cm/cmmi5.pfb></usr/share/texmf/fonts
+/type1/bluesky/cm/cmmi6.pfb></usr/share/texmf/fonts/type1/bluesky/cm/cmmi7.pfb>
+</usr/share/texmf/fonts/type1/bluesky/cm/cmmi8.pfb></usr/share/texmf/fonts/type
+1/bluesky/cm/cmr10.pfb></usr/share/texmf/fonts/type1/bluesky/cm/cmr12.pfb></usr
+/share/texmf/fonts/type1/bluesky/cm/cmr17.pfb></usr/share/texmf/fonts/type1/blu
+esky/cm/cmr6.pfb></usr/share/texmf/fonts/type1/bluesky/cm/cmr7.pfb></usr/share/
+texmf/fonts/type1/bluesky/cm/cmr8.pfb></usr/share/texmf/fonts/type1/bluesky/cm/
+cmsy10.pfb></usr/share/texmf/fonts/type1/bluesky/cm/cmsy8.pfb></usr/share/texmf
+/fonts/type1/bluesky/cm/cmti10.pfb></usr/share/texmf/fonts/type1/bluesky/cm/cmt
+i12.pfb></usr/share/texmf/fonts/type1/bluesky/ams/msam10.pfb></usr/share/texmf/
+fonts/type1/bluesky/ams/msam7.pfb>
+Output written on manuscript_s1328668.pdf (42 pages, 530988 bytes).
+PDF statistics:
+ 902 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 131072)
+ 81 words of extra memory for PDF output out of 10000 (max. 10000000)
+

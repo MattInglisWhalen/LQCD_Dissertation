@@ -1,0 +1,310 @@
+
+alpha(mu=mc,nf=3) = 0.348776
+alpha(mu=mc,nf=4) = 0.347777
+alpha(mu=mb,nf=4) = 0.212384
+alpha(mu=mb,nf=5) = 0.212194
+alpha(mu=mz,nf=5) = 0.114631
+
+Lambda(nf=3) = 286
+Lambda(nf=4) = 244.033
+Lambda(nf=5) = 171.751
+
+
+
+********* 270  1250  4150 ***************
+
+alpha(mu=mc,nf=3) = 0.340573
+alpha(mu=mc,nf=4) = 0.33965
+alpha(mu=mb,nf=4) = 0.20876
+alpha(mu=mb,nf=5) = 0.20858
+alpha(mu=mz,nf=5) = 0.113494
+
+Lambda(nf=3) = 270
+Lambda(nf=4) = 229.326
+Lambda(nf=5) = 160.4
+********* 270  1250  4180 ***************
+
+alpha(mu=mc,nf=3) = 0.340573
+alpha(mu=mc,nf=4) = 0.33965
+alpha(mu=mb,nf=4) = 0.208295
+alpha(mu=mb,nf=5) = 0.208116
+alpha(mu=mz,nf=5) = 0.11348
+
+Lambda(nf=3) = 270
+Lambda(nf=4) = 229.326
+Lambda(nf=5) = 160.27
+********* 270  1250  4210 ***************
+
+alpha(mu=mc,nf=3) = 0.340573
+alpha(mu=mc,nf=4) = 0.33965
+alpha(mu=mb,nf=4) = 0.207835
+alpha(mu=mb,nf=5) = 0.207658
+alpha(mu=mz,nf=5) = 0.113467
+
+Lambda(nf=3) = 270
+Lambda(nf=4) = 229.326
+Lambda(nf=5) = 160.141
+********* 270  1275  4150 ***************
+
+alpha(mu=mc,nf=3) = 0.336446
+alpha(mu=mc,nf=4) = 0.33556
+alpha(mu=mb,nf=4) = 0.208605
+alpha(mu=mb,nf=5) = 0.208426
+alpha(mu=mz,nf=5) = 0.11345
+
+Lambda(nf=3) = 270
+Lambda(nf=4) = 228.779
+Lambda(nf=5) = 159.975
+********* 270  1275  4180 ***************
+
+alpha(mu=mc,nf=3) = 0.336446
+alpha(mu=mc,nf=4) = 0.33556
+alpha(mu=mb,nf=4) = 0.208141
+alpha(mu=mb,nf=5) = 0.207963
+alpha(mu=mz,nf=5) = 0.113437
+
+Lambda(nf=3) = 270
+Lambda(nf=4) = 228.779
+Lambda(nf=5) = 159.845
+********* 270  1275  4210 ***************
+
+alpha(mu=mc,nf=3) = 0.336446
+alpha(mu=mc,nf=4) = 0.33556
+alpha(mu=mb,nf=4) = 0.207682
+alpha(mu=mb,nf=5) = 0.207505
+alpha(mu=mz,nf=5) = 0.113423
+
+Lambda(nf=3) = 270
+Lambda(nf=4) = 228.779
+Lambda(nf=5) = 159.716
+********* 270  1300  4150 ***************
+
+alpha(mu=mc,nf=3) = 0.332509
+alpha(mu=mc,nf=4) = 0.331657
+alpha(mu=mb,nf=4) = 0.208455
+alpha(mu=mb,nf=5) = 0.208276
+alpha(mu=mz,nf=5) = 0.113407
+
+Lambda(nf=3) = 270
+Lambda(nf=4) = 228.247
+Lambda(nf=5) = 159.561
+********* 270  1300  4180 ***************
+
+alpha(mu=mc,nf=3) = 0.332509
+alpha(mu=mc,nf=4) = 0.331657
+alpha(mu=mb,nf=4) = 0.207991
+alpha(mu=mb,nf=5) = 0.207814
+alpha(mu=mz,nf=5) = 0.113394
+
+Lambda(nf=3) = 270
+Lambda(nf=4) = 228.247
+Lambda(nf=5) = 159.431
+********* 270  1300  4210 ***************
+
+alpha(mu=mc,nf=3) = 0.332509
+alpha(mu=mc,nf=4) = 0.331657
+alpha(mu=mb,nf=4) = 0.207533
+alpha(mu=mb,nf=5) = 0.207357
+alpha(mu=mz,nf=5) = 0.113381              <--- Lowest Alpha
+
+Lambda(nf=3) = 270
+Lambda(nf=4) = 228.247                    <--- Lowest Lambda4
+Lambda(nf=5) = 159.303                    <--- Lowest Lambda4
+********* 286  1250  4150 ***************
+
+alpha(mu=mc,nf=3) = 0.353263
+alpha(mu=mc,nf=4) = 0.352219
+alpha(mu=mb,nf=4) = 0.213033
+alpha(mu=mb,nf=5) = 0.212841
+alpha(mu=mz,nf=5) = 0.114691
+
+Lambda(nf=3) = 286
+Lambda(nf=4) = 244.626
+Lambda(nf=5) = 172.356
+********* 286  1250  4180 ***************
+
+alpha(mu=mc,nf=3) = 0.353263
+alpha(mu=mc,nf=4) = 0.352219
+alpha(mu=mb,nf=4) = 0.212547
+alpha(mu=mb,nf=5) = 0.212357
+alpha(mu=mz,nf=5) = 0.114677
+
+Lambda(nf=3) = 286
+Lambda(nf=4) = 244.626
+Lambda(nf=5) = 172.215
+********* 286  1250  4210 ***************
+
+alpha(mu=mc,nf=3) = 0.353263
+alpha(mu=mc,nf=4) = 0.352219
+alpha(mu=mb,nf=4) = 0.212067
+alpha(mu=mb,nf=5) = 0.211878
+alpha(mu=mz,nf=5) = 0.114663
+
+Lambda(nf=3) = 286
+Lambda(nf=4) = 244.626
+Lambda(nf=5) = 172.076
+********* 286  1275  4150 ***************
+
+alpha(mu=mc,nf=3) = 0.348776
+alpha(mu=mc,nf=4) = 0.347777
+alpha(mu=mb,nf=4) = 0.212869
+alpha(mu=mb,nf=5) = 0.212678
+alpha(mu=mz,nf=5) = 0.114645
+
+Lambda(nf=3) = 286
+Lambda(nf=4) = 244.033
+Lambda(nf=5) = 171.891
+********* 286  1275  4180 ***************
+
+alpha(mu=mc,nf=3) = 0.348776
+alpha(mu=mc,nf=4) = 0.347777
+alpha(mu=mb,nf=4) = 0.212384
+alpha(mu=mb,nf=5) = 0.212194
+alpha(mu=mz,nf=5) = 0.114631           <--- Central Alpha
+
+Lambda(nf=3) = 286
+Lambda(nf=4) = 244.033                 <--- Central Lambda4
+Lambda(nf=5) = 171.751                 <--- Central Lambda5
+********* 286  1275  4210 ***************
+
+alpha(mu=mc,nf=3) = 0.348776
+alpha(mu=mc,nf=4) = 0.347777
+alpha(mu=mb,nf=4) = 0.211905
+alpha(mu=mb,nf=5) = 0.211716
+alpha(mu=mz,nf=5) = 0.114618
+
+Lambda(nf=3) = 286
+Lambda(nf=4) = 244.033
+Lambda(nf=5) = 171.612
+********* 286  1300  4150 ***************
+
+alpha(mu=mc,nf=3) = 0.344502
+alpha(mu=mc,nf=4) = 0.343543
+alpha(mu=mb,nf=4) = 0.212709
+alpha(mu=mb,nf=5) = 0.212519
+alpha(mu=mz,nf=5) = 0.114601
+
+Lambda(nf=3) = 286
+Lambda(nf=4) = 243.456
+Lambda(nf=5) = 171.439
+********* 286  1300  4180 ***************
+
+alpha(mu=mc,nf=3) = 0.344502
+alpha(mu=mc,nf=4) = 0.343543
+alpha(mu=mb,nf=4) = 0.212225
+alpha(mu=mb,nf=5) = 0.212036
+alpha(mu=mz,nf=5) = 0.114587
+
+Lambda(nf=3) = 286
+Lambda(nf=4) = 243.456
+Lambda(nf=5) = 171.299
+********* 286  1300  4210 ***************
+
+alpha(mu=mc,nf=3) = 0.344502
+alpha(mu=mc,nf=4) = 0.343543
+alpha(mu=mb,nf=4) = 0.211747
+alpha(mu=mb,nf=5) = 0.211559
+alpha(mu=mz,nf=5) = 0.114574
+
+Lambda(nf=3) = 286
+Lambda(nf=4) = 243.456
+Lambda(nf=5) = 171.16
+********* 302  1250  4150 ***************
+
+alpha(mu=mc,nf=3) = 0.366316
+alpha(mu=mc,nf=4) = 0.365138
+alpha(mu=mb,nf=4) = 0.217256
+alpha(mu=mb,nf=5) = 0.217052
+alpha(mu=mz,nf=5) = 0.115849           <---- Highest alpha
+
+Lambda(nf=3) = 302
+Lambda(nf=4) = 260.06                  <---- Highest Lambda4
+Lambda(nf=5) = 184.509
+********* 302  1250  4180 ***************
+
+alpha(mu=mc,nf=3) = 0.366316
+alpha(mu=mc,nf=4) = 0.365138
+alpha(mu=mb,nf=4) = 0.21675
+alpha(mu=mb,nf=5) = 0.216547
+alpha(mu=mz,nf=5) = 0.115835
+
+Lambda(nf=3) = 302
+Lambda(nf=4) = 260.06
+Lambda(nf=5) = 184.358
+********* 302  1250  4210 ***************
+
+alpha(mu=mc,nf=3) = 0.366316
+alpha(mu=mc,nf=4) = 0.365138
+alpha(mu=mb,nf=4) = 0.216249
+alpha(mu=mb,nf=5) = 0.216048
+alpha(mu=mz,nf=5) = 0.115821
+
+Lambda(nf=3) = 302
+Lambda(nf=4) = 260.06
+Lambda(nf=5) = 184.208
+********* 302  1275  4150 ***************
+
+alpha(mu=mc,nf=3) = 0.361439
+alpha(mu=mc,nf=4) = 0.360313
+alpha(mu=mb,nf=4) = 0.217082
+alpha(mu=mb,nf=5) = 0.216879
+alpha(mu=mz,nf=5) = 0.115802
+
+Lambda(nf=3) = 302
+Lambda(nf=4) = 259.419
+Lambda(nf=5) = 184.003
+********* 302  1275  4180 ***************
+
+alpha(mu=mc,nf=3) = 0.361439
+alpha(mu=mc,nf=4) = 0.360313
+alpha(mu=mb,nf=4) = 0.216577
+alpha(mu=mb,nf=5) = 0.216375
+alpha(mu=mz,nf=5) = 0.115788
+
+Lambda(nf=3) = 302
+Lambda(nf=4) = 259.419
+Lambda(nf=5) = 183.852
+********* 302  1275  4210 ***************
+
+alpha(mu=mc,nf=3) = 0.361439
+alpha(mu=mc,nf=4) = 0.360313
+alpha(mu=mb,nf=4) = 0.216077
+alpha(mu=mb,nf=5) = 0.215877
+alpha(mu=mz,nf=5) = 0.115774
+
+Lambda(nf=3) = 302
+Lambda(nf=4) = 259.419
+Lambda(nf=5) = 183.702
+********* 302  1300  4150 ***************
+
+alpha(mu=mc,nf=3) = 0.356801
+alpha(mu=mc,nf=4) = 0.355723
+alpha(mu=mb,nf=4) = 0.216913
+alpha(mu=mb,nf=5) = 0.21671
+alpha(mu=mz,nf=5) = 0.115756
+
+Lambda(nf=3) = 302
+Lambda(nf=4) = 258.796
+Lambda(nf=5) = 183.511
+********* 302  1300  4180 ***************
+
+alpha(mu=mc,nf=3) = 0.356801
+alpha(mu=mc,nf=4) = 0.355723
+alpha(mu=mb,nf=4) = 0.216409
+alpha(mu=mb,nf=5) = 0.216207
+alpha(mu=mz,nf=5) = 0.115742
+
+Lambda(nf=3) = 302
+Lambda(nf=4) = 258.796
+Lambda(nf=5) = 183.36
+********* 302  1300  4210 ***************
+
+alpha(mu=mc,nf=3) = 0.356801
+alpha(mu=mc,nf=4) = 0.355723
+alpha(mu=mb,nf=4) = 0.21591
+alpha(mu=mb,nf=5) = 0.21571
+alpha(mu=mz,nf=5) = 0.115728
+
+Lambda(nf=3) = 302
+Lambda(nf=4) = 258.796
+Lambda(nf=5) = 183.211
